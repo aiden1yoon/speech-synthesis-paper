@@ -74,6 +74,8 @@ List of speech synthesis papers. Welcome to recommend awesome papers😀
 - Flowtron  (flow based): [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957) (2020)
 - (local style): [Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis](https://arxiv.org/abs/2002.03785) (ICASSP 2020)
 - [Controllable Neural Prosody Synthesis](https://arxiv.org/pdf/2008.03388.pdf) (Interspeech 2020)
+- [Controllable neural text-to-speech synthesis using intuitive prosodic features](https://arxiv.org/abs/2009.06775) (2020)
+
 
 ### MultiSpeaker TTS
 - [Sample Efficient Adaptive Text-to-Speech](https://arxiv.org/abs/1809.10460) (ICLR 2019)
